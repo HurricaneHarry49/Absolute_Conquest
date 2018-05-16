@@ -1,5 +1,5 @@
 # Absolute Conquest: Noobs, Big Daddy's, and Dragons
-<img> https://i.imgur.com/od4dbxV.png </img> <br>
+<img src="https://i.imgur.com/od4dbxV.png" alt="The title picture of Absolute conquest">
 
 This project was created for Computer Science 309 - Software Development Practices
 
@@ -11,7 +11,7 @@ When a capital is taken over, a player is eliminated until only one player remai
 from the shop and create new decks to play with. </p>
 
 # About The Devs
-<img> https://i.imgur.com/cl8udRq.png </img> <br>
+<img src="https://i.imgur.com/cl8udRq.png" alt="A picture of the development team of Absolute Conquest">
 The team members from left to right are:
 <ul>
      <li>Josh Brenneman</li>
